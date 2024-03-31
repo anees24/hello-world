@@ -1,6 +1,6 @@
 # Use the official Node.js image as base
 FROM node:18.19.1
-LABEL name="hellow-world"
+LABEL name="kubeanees/hello-world"
 
 # Set the working directory in the container
 WORKDIR /usr/src/app
